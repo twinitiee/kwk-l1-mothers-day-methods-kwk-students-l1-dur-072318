@@ -1,1 +1,3 @@
-def holiday_greeting
+def holiday_greeting(to, from. holiday)
+  puts "Happy #{holiday}, #{to}! From #{from}"
+  
